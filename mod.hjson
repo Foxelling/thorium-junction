@@ -1,0 +1,8 @@
+name: thorium-junction
+displayName: Thorium Junction
+description: Adds an improved junction with increased throughput (20 items/sec)
+author: Foxel
+
+version: 1.0
+minGameVersion: 154
+repo: Foxelling/thorium-junction

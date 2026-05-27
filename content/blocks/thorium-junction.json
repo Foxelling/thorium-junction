@@ -1,0 +1,22 @@
+{
+  "type": "Junction",
+  "name": "Thorium junction",
+  "description": "Improved junction with increased throughput",
+  "category": "distribution",
+  "health": 75,
+  "speed": 18,
+  "displayedSpeed": 20,
+  "capacity": 6,
+  "requirements": [
+    { "item": "titanium", "amount": 5 },
+    { "item": "thorium", "amount": 5 }
+  ],
+  "research": {
+    "parent": "titanium-conveyor",
+    "requirements": [
+      "graphite/400",
+      "titanium/400",
+      "thorium/200"
+    ]
+  }
+}
