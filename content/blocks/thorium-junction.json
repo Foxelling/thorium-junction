@@ -4,7 +4,7 @@
   "description": "Improved junction with increased throughput",
   "category": "distribution",
   "health": 75,
-  "speed": 18,
+  "speed": 15,
   "displayedSpeed": 20,
   "capacity": 6,
   "requirements": [
